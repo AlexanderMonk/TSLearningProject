@@ -1,0 +1,52 @@
+{
+    "git.ignoreLimitWarning": true,
+    "git.decorations.enabled": false,
+  
+    "files.autoSave": "afterDelay",
+  
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/.gitignore": true,
+        "npm-debug.log": true
+    },
+  
+  
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    },
+    "editor.parameterHints.enabled": false,
+    "editor.wordBasedSuggestions": false,
+    "editor.selectionHighlight": false,
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.folding": false,
+    "editor.hover.enabled": true,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.lightbulb.enabled": false,
+
+    "breadcrumbs.enabled": false,
+  
+    "typescript.suggestionActions.enabled": false,
+    "typescript.suggest.completeFunctionCalls": true,
+  
+    "problems.decorations.enabled": false,
+  
+    "terminal.integrated.fontSize": 16,
+    
+    "workbench.colorCustomizations": {
+      "terminal.background":"#242323",
+      "terminal.foreground": "#1DE9B6",
+      "terminal.ansiBrightBlack": "#ffffff",
+      "terminal.ansiBrightBlue": "#00ACC1",
+      "terminal.ansiBrightYellow": "#FF8F00"
+    },
+
+    "workbench.statusBar.visible": false,
+
+    "window.zoomLevel": 0
+     
+  }
